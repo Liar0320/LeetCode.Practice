@@ -10,6 +10,8 @@
  *     public ListNode next;
  *     public ListNode(int x) { val = x; }
  * }
+ * 基准条件  溢出为0 数值A为空 数值B为空
+ * 递归条件  
  */
 public class Solution {
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
